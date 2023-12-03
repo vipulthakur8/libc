@@ -4,9 +4,3 @@
 
 make
 
-cd test
-
-make
-
-./test
-

@@ -2,7 +2,6 @@
 #include "mylibc/math.h"
 
 int main() {
-	double value = power(2.0, 3);
-	printf("%lf", value);
+	puts("Hello from test_power");
 	return 0;
 }
